@@ -1,3 +1,8 @@
 # Build microservice web app with docker, flask, react
 
-`docker-compose build -d`
+
+**build container**
+`docker-compose build`
+
+**run container as background daemon**
+`docker-compose up -d`
